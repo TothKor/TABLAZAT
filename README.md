@@ -8,7 +8,7 @@
 
 <tr>
     <th rowspan="8">Órák</th>
-    <th> HétfŐ </th>
+    <th> Hétfő </th>
     <th> Kedd </th>
     <th> Szerda </th>
     <th> Csütörtök </th>
